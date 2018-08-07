@@ -1,21 +1,7 @@
 # year-progress
 
-## Project setup
-```
-npm install
-```
+3 way to show year progress.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Try it: [https://ethonlau.github.io/year-progress](https://ethonlau.github.io/year-progress)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+![image](https://github.com/ethonlau/year-progress/blob/master/image/img.gif)
